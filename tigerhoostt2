@@ -11,7 +11,7 @@ ul.nav.nav-tabs>li.active>a {
 }
 #d2 .MFT,#d2bc .MFT {
     background-size: 100%;
-    border: 1px solid #9b1212;
+    border: 1px solid #9f1f1f;
     padding: 0px!important;
     margin: 3px;
 }
@@ -23,16 +23,16 @@ div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3 {
     margin: 2px 5px 2px 0;
     /* background-image: linear-gradient( 90deg ,#365269 0,#87b5cf 10%,#365269 51%,#87b5cf 89%,#365269 100%); */
     border-radius: 150px 10px 150px 10px!important;
-    border: 1px solid #a63939!important;
-    color: #43627a;
+    border: 1px solid #50728a!important;
+    /* color: #43627a; */
 }
 #tlogins .hand.nosel.fl.uzr.borderg {
-    border: 2px solid #a73d3d91;
+    border: 2px solid #5e839b;
     padding: 3px;
 }
 .border {
     border: 2px solid #ffffff!important;
-    border-top: 1px solid #9b1212!important;
+    border-top: 1px solid #44738e!important;
 }
 
 label.ae.fa.label {
@@ -50,7 +50,7 @@ ul.nav.nav-tabs {
     float: right;
     width: 100%;
     padding: 3px 1px;
-    background-image: linear-gradient( 90deg ,#970404 0,#df8d8dd1 10%,#970404 51%,#df8d8dd1 89%,#970404 100%);
+    background-image: linear-gradient( 90deg ,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);
 }
 .light{
     background: repeating-linear-gradient(45deg,rgba(255,255,255,.8),rgb(255,255,255) 100px,#ffffffb0 0,#fff6f699 200px),repeating-linear-gradient(-45deg,rgba(255,255,255,.5),rgba(255,255,255,.93) 100px,#b3adadd1 0,#ffffffe6 200px);
@@ -60,7 +60,7 @@ ul.nav.nav-tabs {
     .dpnl{border: 1px solid #000!important;border-radius: 0;}
 
 .bg {
-    background-color: #9b1212!important;
+    background-color: #4c7b95!important;
 }
 label.fl.label.loginstat{
     /* background: none!important; */
@@ -103,7 +103,7 @@ div#tlogins ::-webkit-scrollbar {
     color: #fff!important;
 }
 div#l1, div#l2, div#l3 {
-    background-color: #a02626;
+    background-color: #a93636;
     background-image: -webkit-linear-gradient(332deg,rgb(166 206 214/0%) 25%,transparent 25%,#2b879900 50%,rgba(255,255,255,.2) 50%,rgb(255 255 255) 75%,transparent 75%,transparent) !important;
     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 14px 0 rgb(0 0 0 / 12%), 0 -14px 14px 0px rgb(0 0 0 / 20%);
     border: dashed;
@@ -117,7 +117,7 @@ div#l1 input#u1, div#l3 button {
 }
 ul.nav.nav-tabs>li>a {
     color: #fff;
-    background-image: linear-gradient( 90deg ,#970404 0,#df8d8dd1 10%,#970404 51%,#df8d8dd1 89%,#970404 100%);
+    background-image: linear-gradient( 270deg ,#365269 0,#87b5cf 10%,#365269 51%,#87b5cf 89%,#365269 100%);
     width: 103%!important;
     margin: -1px 59px 6px 4px;
     background-color: #1f1f1f;
@@ -146,7 +146,7 @@ div#l2 button, div#l3 button{
 .label-primary, .btn-primary {
     background-color: #000!important;
     border-radius: 25px;
-    background-image: linear-gradient( 90deg ,#970404 0,#df8d8dd1 10%,#970404 51%,#df8d8dd1 89%,#970404 100%);
+    background-image: linear-gradient( 226deg ,#365269 0,#87b5cf  10%,#365269 51%,#87b5cf 89%,#365269 100%);
     margin-bottom: 2px;
     border-radius: 23px!important;
 }
@@ -155,7 +155,7 @@ div#tlogins ::-webkit-scrollbar-thumb {
     background: 0 0;
     border: 71px #fff;
     border-radius: 31px;
-    background-image: linear-gradient( 90deg ,#970404 0,#df8d8dd1 10%,#970404 51%,#df8d8dd1 89%,#970404 100%);
+    background-image: linear-gradient( 90deg ,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);
 }
 
 div#tlogins .fl.mini.u-msg {
