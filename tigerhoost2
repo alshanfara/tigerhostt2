@@ -32,7 +32,7 @@ div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3 {
 }
 .border {
     border: 2px solid #ffffff!important;
-    border-top: 1px solid #44738e!important;
+    border-top: 1px solid #9b1212!important;
 }
 
 label.ae.fa.label {
